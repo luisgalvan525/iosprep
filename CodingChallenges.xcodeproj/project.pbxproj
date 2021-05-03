@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B2667BB26002E610076F7BB /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0B497A3A25E4A7D7007F01EC /* CodingChallenges.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodingChallenges.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B497A3D25E4A7D7007F01EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0B497A3F25E4A7D7007F01EC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +60,7 @@
 				0B497A3D25E4A7D7007F01EC /* AppDelegate.swift */,
 				0B497A3F25E4A7D7007F01EC /* SceneDelegate.swift */,
 				0B497A4125E4A7D7007F01EC /* ViewController.swift */,
+				0B2667BB26002E610076F7BB /* MyPlayground.playground */,
 				0B497A4325E4A7D7007F01EC /* Main.storyboard */,
 				0B497A4625E4A7D9007F01EC /* Assets.xcassets */,
 				0B497A4825E4A7D9007F01EC /* LaunchScreen.storyboard */,
